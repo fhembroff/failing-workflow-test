@@ -1,0 +1,7 @@
+version: 1.2
+tools:
+  - subclass: CWL
+    primaryDescriptorPath: /test-file/foo.cwl
+    name: test
+    authors:
+      - name: Flynn Hembroff
